@@ -1,4 +1,5 @@
-### <p align="center">Hi there 👋</p>
+### <p align="center">Heya, 🚀 Welcome to Cyberella's Coding Galaxy! 🌌  👋</p>
+#### <p align="center"> I'm a multipassionate individual, eager to explore and excel in various fields of Computer Science </p>
 
 <!--
 **Maryam-Ejaz/Maryam-Ejaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
