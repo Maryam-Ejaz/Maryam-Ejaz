@@ -116,7 +116,7 @@
 <a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues" align = "center"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" align = "center"></a>
 
 
-## Connect With Me <img src="https://media.giphy.com/media/fFeiGyCXRnbumEaP8q/giphy.gif" width="60" align="right">
+<h2> Connect With Me <img src="https://media.giphy.com/media/fFeiGyCXRnbumEaP8q/giphy.gif" width="60" align="right"/></h2>
 <div>
 <p align="left" width = "300">
 <a href="https://twitter.com/allegedlyObnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allegedlyObnox" height="30" width="40" /></a>
@@ -126,12 +126,14 @@
 <a href="https://www.instagram.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/name/" height="30" width="40" /></a> -->
 </p>
 
- 
-<p><img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" alt="animation"  width="100%" height= "20%" align = "center"></p>
 
+
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/vRIEbBEC7d0ULh0ccS/giphy.gif" width="40%">
+</p>
 <br>
 <br>
-
+<br>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
