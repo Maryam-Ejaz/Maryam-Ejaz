@@ -1,12 +1,11 @@
-<img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="1300" height= "250" />
-<h1 align="center">Heya, <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" height= "50"> Welcome to Cyberella's Coding Galaxy! <img src="https://media.giphy.com/media/02fpOkmY0kxI2ta63z/giphy.gif" width="50" height= "50"> </h1> 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1300" height= "350" />
+<h1 align="center">Heya, <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" > Welcome to Cyberella's Coding Galaxy! <img src="https://media.giphy.com/media/02fpOkmY0kxI2ta63z/giphy.gif" width="50" > </h1> 
 <h4 align="center" style="color: blue;"> I'm a multi-passionate individual, roaming curiously across diverse coding realms! </h4>
 <h4 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AR+Developer;Data+Scientist;Game+Programmer;Graphic+Designer&center=true&size=30&color=red">
   </a>
 </h1>
-
 
 
 <h2>About me</h2>
