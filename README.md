@@ -42,9 +42,14 @@
 <!-- <a href="https://web.facebook.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/name/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/name/" height="30" width="40" /></a> -->
 </p>
+	
+<br>
+<br>
+<br>
+<br>
 
 <div style="display: flex;">
-<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="200" align="right">
+<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="300" align="right">
 </div>
 
 </div>
@@ -89,8 +94,18 @@
 </div>
 
 
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
+
+
+
 ## Guest Book
 <p>Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
 <a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" ></a>
+
 
 <p align="left"> <a href="https://twitter.com/allegedlyObnox" target="blank"><img src="https://img.shields.io/twitter/follow/allegedlyObnox?logo=twitter&style=for-the-badge" alt="Cyberella" /></a> </p>
