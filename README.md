@@ -1,12 +1,16 @@
 <img src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg" width="1300" height= "250" />
 <h1 align="center">Heya, <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" height= "50"> Welcome to Cyberella's Coding Galaxy! <img src="https://media.giphy.com/media/02fpOkmY0kxI2ta63z/giphy.gif" width="50" height= "50"> </h1> 
 <h4 align="center" style="color: blue;"> I'm a multi-passionate individual, roaming curiously across diverse coding realms! </h4>
+<h4 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AR+Developer;Data+Scientist;Game+Programmer;Graphic+Designer&center=true&size=30&color=red">
+  </a>
+</h1>
 
 
 
 <h2>About me</h2>
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 	
 ```python
  class AboutMe:
@@ -45,8 +49,8 @@
 </div>
 
 
-## Languages and Technologies
 
+## Languages and Technologies
 <div >
 <!--<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 <p align="left"> 
@@ -77,7 +81,7 @@
  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/a/44/adobe-photoshop-cc.svg" alt="Photoshop" width="40" height="40"/> </a>
 
 </p>
-<p><img  align="center" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
+<p><img  align="center" width="40%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
 
 </div>
 
@@ -85,8 +89,6 @@
 
 
 ## Github Stats
-
-
 <p align = "center"><img width= "48%"  align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /> <img align="center" width= "49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
 
 
@@ -110,8 +112,8 @@
 
 
 ## Guest Book
-<p align = "centert">Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
-<a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" ></a>
+<p >Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
+<a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues" align = "center"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" align = "center"></a>
 
 
 ## Connect With Me <img src="https://media.giphy.com/media/fFeiGyCXRnbumEaP8q/giphy.gif" width="60" align="right">
@@ -124,5 +126,12 @@
 <a href="https://www.instagram.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/name/" height="30" width="40" /></a> -->
 </p>
 
+ 
+<p><img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" alt="animation"  width="100%" height= "20%" align = "center"></p>
 
+<br>
+<br>
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
