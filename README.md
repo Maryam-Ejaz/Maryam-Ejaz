@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1300" height= "350" />
+<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/blob/main/vid.mp4/" width="1300" height= "350" />
 <h1 align="center">Heya, <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" > Welcome to Cyberella's Coding Galaxy! <img src="https://media.giphy.com/media/02fpOkmY0kxI2ta63z/giphy.gif" width="50" > </h1> 
 <h4 align="center" style="color: blue;"> I'm a multi-passionate individual, roaming curiously across diverse coding realms! </h4>
 <h4 align="center">
