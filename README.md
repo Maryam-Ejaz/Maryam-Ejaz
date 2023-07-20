@@ -95,11 +95,17 @@
 
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p>&nbsp;<img width= "495" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /></p>
+&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
+
+
+
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 
 
