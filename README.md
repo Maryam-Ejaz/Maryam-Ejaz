@@ -46,7 +46,7 @@
 </div>
 
 
-### Languages and Technologies
+## Languages and Technologies
 <!--<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 <p align="left"> 
 <a href="https://python.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> 
