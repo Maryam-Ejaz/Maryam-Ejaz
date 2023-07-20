@@ -94,24 +94,30 @@
 </div>
 
 
-## Stats
+## Github Stats
 
 
-<p>&nbsp;<img width= "495" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /></p>
-&nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
+<p>&nbsp;<img width= "495" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /><p><img width= "370" height="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p></p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
 
 
 
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+<!--![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=maryam-ejaz)-->
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryam-ejaz&theme=tokyonigh&bg_color=20232a" width="100%"/>
+
 
 
 
 ## Guest Book
-<p>Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
+<p align = "left">Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
 <a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" ></a>
+
 
 
 <p align="left"> <a href="https://twitter.com/allegedlyObnox" target="blank"><img src="https://img.shields.io/twitter/follow/allegedlyObnox?logo=twitter&style=for-the-badge" alt="Cyberella" /></a> </p>
