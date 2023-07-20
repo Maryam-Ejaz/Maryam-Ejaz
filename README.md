@@ -47,6 +47,8 @@
 
 
 ## Languages and Technologies
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex;" width="50">
 <!--<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 <p align="left"> 
 <a href="https://python.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> 
@@ -78,9 +80,11 @@
  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/a/44/adobe-photoshop-cc.svg" alt="Photoshop" width="40" height="40"/> </a>
 
 </p>
-
-<img src="//media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="60" align="right">
-
+</div>
+<div style="display: flex;">
+<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="200" align="right">
+</div>
+</div>
 
 
 ## Guest Book
