@@ -32,21 +32,8 @@
 		# assume a 100 more ambitions (because why stop at a mere handful, right? 😉)
 
  `````
-
-## Connect With Me <img src="https://media.giphy.com/media/fFeiGyCXRnbumEaP8q/giphy.gif" width="60" align="right">
-<div>
-<p align="left" width = "300">
-<a href="https://twitter.com/allegedlyObnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allegedlyObnox" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/maryam-ejaz-833827169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryam-ejaz-833827169" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22255269/maryam-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22255269/maryam-ejaz" height="30" width="40" /></a>
-<!-- <a href="https://web.facebook.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/name/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/name/" height="30" width="40" /></a> -->
-</p>
 	
-<br>
-<br>
-<br>
-<br>
+
 
 <div style="display: flex;">
 <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="300" align="right">
@@ -97,26 +84,40 @@
 ## Github Stats
 
 
-<p>&nbsp;<img width= "495" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /><p><img width= "370" height="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p></p>
+<p align = "center"><img width= "48%" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /><img align="center" width= "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
+
+<p></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
 
 
-
-<!--![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+<!--
+<p><img width= "370" height="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
+[Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=maryam-ejaz)-->
 
+<!--[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Ejaz&bg_color=1a1b27&color=bf91f3&line=bf91f3&point=70a5fd&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryam-ejaz&theme=tokyonigh&bg_color=20232a" width="100%"/>
-
+[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Ejaz&bg_color=1a1b27&color=bf91f3&line=38bdae&point=70a5fd&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 
 
 
 ## Guest Book
 <p align = "left">Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
 <a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" ></a>
+
+
+## Connect With Me <img src="https://media.giphy.com/media/fFeiGyCXRnbumEaP8q/giphy.gif" width="60" align="right">
+<div>
+<p align="left" width = "300">
+<a href="https://twitter.com/allegedlyObnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allegedlyObnox" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maryam-ejaz-833827169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryam-ejaz-833827169" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22255269/maryam-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22255269/maryam-ejaz" height="30" width="40" /></a>
+<!-- <a href="https://web.facebook.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/name/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/name/" height="30" width="40" /></a> -->
+</p>
 
 
 
