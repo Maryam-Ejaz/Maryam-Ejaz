@@ -76,6 +76,8 @@
  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/a/44/adobe-photoshop-cc.svg" alt="Photoshop" width="40" height="40"/> </a>
 
 </p>
+<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
+
 </div>
 
 </div>
@@ -84,24 +86,26 @@
 ## Github Stats
 
 
-<p align = "center"><img width= "48%" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /><img align="center" width= "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
+<p align = "center"><img width= "48%"  align="left" src="https://github-readme-stats.vercel.app/api?username=maryam-ejaz&show_icons=true&locale=en&theme=tokyonight" alt="maryam-ejaz" /> <img align="center" width= "49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ejaz&theme=tokyonight" alt="maryam-ejaz" /></p>
 
-<p></p>
+
 
 
 
 
 <!--
-<p><img width= "370" height="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryam-ejaz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="maryam-ejaz" /></p>
+
 [Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-![trophy](https://github-profile-trophy.vercel.app/?username=maryam-ejaz)-->
+![trophy](https://github-profile-trophy.vercel.app/?username=maryam-ejaz) 
+-->
 
-<!--[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Ejaz&bg_color=1a1b27&color=bf91f3&line=bf91f3&point=70a5fd&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!--[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Ejaz&bg_color=1a1b27&color=bf91f3&line=bf91f3&point=70a5fd&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+<br>
 
 [![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maryam-Ejaz&bg_color=1a1b27&color=bf91f3&line=38bdae&point=70a5fd&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-
 
 
 ## Guest Book
