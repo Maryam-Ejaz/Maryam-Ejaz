@@ -120,4 +120,3 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/allegedlyObnox" target="blank"><img src="https://img.shields.io/twitter/follow/allegedlyObnox?logo=twitter&style=for-the-badge" alt="Cyberella" /></a> </p>
