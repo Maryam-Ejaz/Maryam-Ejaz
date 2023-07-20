@@ -43,6 +43,10 @@
 <a href="https://www.instagram.com/name/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/name/" height="30" width="40" /></a> -->
 </p>
 
+<div style="display: flex;">
+<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="200" align="right">
+</div>
+
 </div>
 
 
@@ -81,9 +85,7 @@
 
 </p>
 </div>
-<div style="display: flex;">
-<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="200" align="right">
-</div>
+
 </div>
 
 
