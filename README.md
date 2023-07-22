@@ -113,7 +113,7 @@
 ## Guest Book
 <p >Sign my guestbook by leaving a nice comment or a coding pun (click on the book):</p>
 <p align="center">
-<a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues" align = "center"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" align = "center"></a></p>
+<a href="https://github.com/Maryam-Ejaz/Maryam-Ejaz/issues/1" align = "center"><img src="https://media.giphy.com/media/eJEvETAuEly6H7jGaR/giphy.gif" alt="Guest book"  width="100" align = "center"></a></p>
 
 
 <h2> Connect With Me <img src="https://media.giphy.com/media/fFeiGyCXRnbumEaP8q/giphy.gif" width="60" align="right"/></h2>
