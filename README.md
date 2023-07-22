@@ -1,5 +1,5 @@
 <img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/blob/main/video.gif" width="1300" height= "350" />
-<h1 align="center">Heya, <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" > Welcome to Cyberella's Coding Galaxy! <img src="https://media.giphy.com/media/02fpOkmY0kxI2ta63z/giphy.gif" width="50" > </h1> 
+<h1 align="center">Heya, <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" > Welcome to Cyberella's Coding Galaxy!! <img src="https://media.giphy.com/media/02fpOkmY0kxI2ta63z/giphy.gif" width="50" > </h1> 
 <h4 align="center" style="color: blue;"> I'm a multi-passionate individual, roaming curiously across diverse coding realms! </h4>
 <h4 align="center">
   <a href="https://git.io/typing-svg">
