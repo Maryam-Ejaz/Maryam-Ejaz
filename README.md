@@ -17,7 +17,7 @@
         current_work = '3D Game Programming 🎮'
         wanna_learn = 'three.js 💻'
         up_next = 'AR Development ✨'
-        up_next = 'Can fix magnetron heat guns in microwave ovens ✨'
+        weird_talent = 'Can fix magnetron heat guns in microwave ovens ✨'
 
         hobbies = [
                        'Reading 📚',
