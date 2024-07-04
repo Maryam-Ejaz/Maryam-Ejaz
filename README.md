@@ -14,7 +14,8 @@
 ```python
  class AboutMe:
  	user = 'Maryam Ejaz'
-        current_work = '3D Game Programming 🎮'
+        current_work = 'Mobile Application Development 📱'
+        prior work = '3D Game Programming 🎮'
         wanna_learn = 'three.js 💻'
         up_next = 'AR Development ✨'
         weird_talent = 'Can fix magnetron heat guns in microwave ovens ✨'
